@@ -38,3 +38,5 @@ The model was trained on a synthetic but behaviorally grounded dataset with the 
 - `avg_password_length`: Average length of passwords
 
 The target variable is the overall **`cyber_risk_level`** — classified into `Low`, `Medium`, or `High`.
+
+~Mohammed Ghouse Mohiuddin
